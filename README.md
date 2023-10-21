@@ -65,6 +65,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore-fdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="kishore-fdi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore-fdi&show_icons=true&locale=en" alt="kishore-fdi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore-fdi&show_icons=true&locale=en&theme=dark" alt="kishore-fdi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-fdi&" alt="kishore-fdi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-fdi&theme=dark" alt="kishore-fdi" /></p>
