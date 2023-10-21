@@ -63,7 +63,7 @@
 </div> 
   <tr><td valign="left" width="50%">
     <div>
-      <h3 align="center">Some of my stats</h3>
+      <h3 align="left">Some of my stats:</h3>
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore-fdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="kishore-fdi" /></p>
