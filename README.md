@@ -45,7 +45,7 @@
   </div>
   </td>
 </table>
-<table><tr><td valign="left" width="100%">
+<table><tr><td valign="left" width="50%">
 <h3 align="left">Connect with me:</h3>
   <div align="left">
 <a href="https://www.linkedin.com/in/kishore-kumar-k-867a97293" target="_blank">
@@ -60,7 +60,9 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div> </td></tr></table>
+</div> 
+  <tr><td valign="left" width="50%">
+    <div
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore-fdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="kishore-fdi" /></p>
@@ -68,3 +70,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore-fdi&show_icons=true&locale=en&theme=dark" alt="kishore-fdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-fdi&theme=dark" alt="kishore-fdi" /></p>
+</div></td></tr></table>
