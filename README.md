@@ -60,7 +60,7 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> </td></tr></table>
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore-fdi&show_icons=true&locale=en&layout=compact&theme=dark" alt="kishore-fdi" /></p>
