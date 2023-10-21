@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar K</h1>
 <h3 align="center">A passionate fervent developer from India</h3>
 
-![giphy](https://github.com/kishore-FDI/kishore-FDI/assets/147427164/2b75c7ab-74df-4800-9520-b6ff5e7dbf5d)
+![tenor](https://github.com/kishore-FDI/kishore-FDI/assets/147427164/61b1b35a-60f8-46ff-8cc8-084e731f38a8)
+
 
 - 🔭 I’m currently working on **many things**
 
