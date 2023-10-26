@@ -52,7 +52,7 @@
   </div>
   </td>
 </table>
-<table><tr><td valign="left" width="50%">
+<table><tr><td valign="top" width="100%">
 <h3 align="left">Connect with me:</h3>
   <div align="left">
 <a href="https://www.linkedin.com/in/kishore-kumar-k-867a97293" target="_blank">
