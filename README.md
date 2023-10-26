@@ -73,7 +73,6 @@
 
   <div>
   <tr><td valign="top" width="50%">
-    <div>
       <h3 align="left">Some of my stats:</h3>
 <p align="left">
 </p>
