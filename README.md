@@ -52,7 +52,7 @@
   </div>
   </td>
 </table>
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
    <div >
 <h3 align="left">Connect with me:</h3>
  
@@ -72,7 +72,7 @@
 
 
   <div>
-  <tr><td valign="top" width="100%">
+  <tr><td valign="top" width="50%">
     <div>
       <h3 align="left">Some of my stats:</h3>
 <p align="left">
