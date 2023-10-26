@@ -54,7 +54,6 @@
 </table>
 <table><tr><td valign="top" width="50%">
    <div >
-      <tr><td valign="top" width="50%">
       <h3 align="left">Some of my stats:</h3>
 <p align="left">
 </p>
@@ -63,10 +62,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore-fdi&show_icons=true&locale=en&theme=dark" alt="kishore-fdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-fdi&theme=dark" alt="kishore-fdi" /></p>
-
-</td>
-
-<td valign="top" width="50%">
+</div>
+</td></tr>
+<div>
+<tr><td valign="top" width="50%">
 
 <h3 align="left">Connect with me:</h3>
  
@@ -83,6 +82,5 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 
-  <div>
  
-</div></td></tr></table>
+</td></tr></div></table>
