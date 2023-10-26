@@ -68,6 +68,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div> 
+</td></tr>
   <tr><td valign="top" width="100%">
     <div>
       <h3 align="left">Some of my stats:</h3>
