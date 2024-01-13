@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **many things**
 
-- 🌱 I’m currently learning **Flutter and cloud**
+- 🌱 I’m currently learning **React and cloud**
 
 - 👯 I’m looking to collaborate on **all my on-going projects**
 
