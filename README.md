@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fervent developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore-FDI&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-FDI" /> </p>
    
-![](https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966)  
+<div width=100% >![](https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966)</div>  
 
 
 - 🔭 I’m currently working on **many things**
