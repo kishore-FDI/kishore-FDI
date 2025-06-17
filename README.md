@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar K</h1>
 <h3 align="center">A passionate fervent developer from India</h3>
-<img src="https://komarev.com/ghpvc/?username=kishore-FDI&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-FDI" width="100%" /> 
-   
+<p align="left> <img src="https://komarev.com/ghpvc/?username=kishore-FDI&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-FDI"/> </p>
+<img src="https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966" />
 ![](https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishore-FDI&theme=radical" width="45%" alt="Most Commit Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishore-FDI&theme=merko" width="45%" alt="Repos Per Language"/>
