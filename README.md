@@ -13,13 +13,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-FDI&theme=dracula" width="47%" alt="Streak Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kishore-FDI&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
 
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=kishore-FDI" style="display: block; width: 100%;">
-  <img 
-    src="https://stats.quira.sh/kishore-FDI/github?theme=dark" 
-    alt="kishore-FDI's GitHub | Stats" 
-    style="width: 100%; height: auto; display: block;" 
+<p align="center">
+  <img
+    src="https://stats.quira.sh/kishore-FDI/github?theme=dark"
+    alt="kishore-FDI's GitHub | Stats"
+    style="width:100%; max-width:800px; height:auto;"
   />
-</a>
+</p>
+
 
 <img src="https://github-contributor-stats.vercel.app/api?username=kishore-FDI&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
 <img src="https://github-profile-trophy.vercel.app/?username=kishore-FDI&theme=dracula&no-frame=true&margin-w=2" width="100%" alt="Trophies"/>
