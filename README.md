@@ -17,7 +17,7 @@
   <img
     src="https://stats.quira.sh/kishore-FDI/github?theme=dark"
     alt="kishore-FDI's GitHub | Stats"
-    style="width:100%; max-width:800px; height:auto;"
+    width="100%"
   />
 </p>
 
