@@ -3,10 +3,12 @@
 <p align="left> <img src="https://komarev.com/ghpvc/?username=kishore-FDI&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-FDI"/> </p>
 <img src="https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966" width="100%"/>
 <!-- ![](https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif?itemid=3950966) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishore-FDI&theme=radical" width="45%" alt="Most Commit Language"/>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishore-FDI&theme=radical" width="45%" alt="Most Commit Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishore-FDI&theme=merko" width="45%" alt="Repos Per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishore-FDI&theme=tokyonight" width="45%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishore-FDI&theme=onedark" width="45%" alt="Productive Time"/>
+</div>
 <img src="https://github.com/kishore-FDI/kishore-FDI/blob/output/github-snake-dark.svg" alt="snake gif" width="90%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-FDI&theme=dracula" width="47%" alt="Streak Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kishore-FDI&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
