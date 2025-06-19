@@ -62,9 +62,6 @@ I'm a passionate full-stack developer with a strong focus on AI/ML technologies.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-FDI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-FDI&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
 
 ---
 
