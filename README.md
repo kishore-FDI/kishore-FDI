@@ -6,5 +6,5 @@ India
 - Lately got into ML and DevOps.
 - Right now GoLang seems to be fun 
 
-Chess: `kishorekumar00000011`  
+We can play Chess: `kishorekumar00000011`  
 LeetCode: https://leetcode.com/u/kishore-fdi/
