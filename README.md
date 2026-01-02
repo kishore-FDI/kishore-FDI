@@ -2,9 +2,8 @@
 
 India
 
-Writes code for fun.
+I enjoy problem solving and puzzles.
+Lately got into ML and DevOps.
 
-Chess: `kishorekumar00000011`
-
-> “The best code is no code at all, but when you have to write it, make it beautiful.”  
-> — Jeff Atwood
+Chess: `kishorekumar00000011`  
+LeetCode: https://leetcode.com/u/kishore-fdi/
